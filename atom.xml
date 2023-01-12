@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tjjdrysre.github.io/qcp.io/</id>
+    <id>https://qingchengpai.github.io/qcp/</id>
     <title>青城派</title>
-    <updated>2023-01-12T10:21:09.977Z</updated>
+    <updated>2023-01-12T10:25:09.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://tjjdrysre.github.io/qcp.io/"/>
-    <link rel="self" href="https://tjjdrysre.github.io/qcp.io/atom.xml"/>
+    <link rel="alternate" href="https://qingchengpai.github.io/qcp/"/>
+    <link rel="self" href="https://qingchengpai.github.io/qcp/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://tjjdrysre.github.io/qcp.io/images/avatar.png</logo>
-    <icon>https://tjjdrysre.github.io/qcp.io/favicon.ico</icon>
+    <logo>https://qingchengpai.github.io/qcp/images/avatar.png</logo>
+    <icon>https://qingchengpai.github.io/qcp/favicon.ico</icon>
     <rights>All rights reserved 2023, 青城派</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://tjjdrysre.github.io/qcp.io/post/hello-gridea/</id>
-        <link href="https://tjjdrysre.github.io/qcp.io/post/hello-gridea/">
+        <id>https://qingchengpai.github.io/qcp/post/hello-gridea/</id>
+        <link href="https://qingchengpai.github.io/qcp/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
